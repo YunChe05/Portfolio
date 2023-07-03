@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.5360d939.css",
-    "main.js": "/static/js/main.b0f865db.js",
+    "main.js": "/static/js/main.e14c092b.js",
     "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/Barquilla.jpg": "/static/media/Barquilla.e55842726ce30eb304e3.jpg",
@@ -14,12 +14,12 @@
     "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/index.html",
     "main.5360d939.css.map": "/static/css/main.5360d939.css.map",
-    "main.b0f865db.js.map": "/static/js/main.b0f865db.js.map",
+    "main.e14c092b.js.map": "/static/js/main.e14c092b.js.map",
     "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5360d939.css",
-    "static/js/main.b0f865db.js"
+    "static/js/main.e14c092b.js"
   ]
 }
