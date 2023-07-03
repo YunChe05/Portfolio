@@ -39,7 +39,7 @@ function Projects() {
               imgPath={BAFRIP}
               title="BAFRIP"
               description="The Barangay Alawihao Facilities Reservation System is an efficient and user-friendly online platform designed to streamline the process of reserving various facilities within the barangay."
-              demoLink="https://igoals.cnsclnd.net"
+              demoLink="https://bafrip.cnsclnd.net"
             />
           </Col>
         </Row>
