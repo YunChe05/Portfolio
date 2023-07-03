@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5360d939.css",
+    "main.js": "/static/js/main.6b95dbd6.js",
+    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Barquilla.jpg": "/static/media/Barquilla.e55842726ce30eb304e3.jpg",
+    "static/media/BarquillaResume.pdf": "/static/media/BarquillaResume.3c9b31c48e3a176d9ca0.pdf",
+    "static/media/home-main.svg": "/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/IGOALS.jpg": "/static/media/IGOALS.77b1da5c2379700bc88e.jpg",
+    "static/media/BAFRIP.jpg": "/static/media/BAFRIP.1cea899eb85698fecf77.jpg",
+    "static/media/LNDMIS.jpg": "/static/media/LNDMIS.88c3503a8f1cfa11dc44.jpg",
+    "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/index.html",
+    "main.5360d939.css.map": "/static/css/main.5360d939.css.map",
+    "main.6b95dbd6.js.map": "/static/js/main.6b95dbd6.js.map",
+    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5360d939.css",
+    "static/js/main.6b95dbd6.js"
+  ]
+}
